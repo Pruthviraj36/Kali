@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669022636133",
+    "project_id": "drop-note-f5e07",
+    "storage_bucket": "drop-note-f5e07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669022636133:android:d255d4f8d1ab0e06c9de8c",
+        "android_client_info": {
+          "package_name": "com.example.drop_note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1dhgNDpeUs8fLkBDPy-l4YedrdN_lvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "880863204158",
+    "project_id": "qrventory-b0ea6",
+    "storage_bucket": "qrventory-b0ea6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880863204158:android:ec507d171cbedc3ac2126f",
+        "android_client_info": {
+          "package_name": "com.example.qrventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880863204158-ve8ca23p27t2khfnd0hof74obi52ngus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr9DUMeZ7D2ii9Be40ITSLLYHjqNBZsfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880863204158-ve8ca23p27t2khfnd0hof74obi52ngus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880863204158-shks9ntdcv4pn2q3ehr2urbpu0bgsm8d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qrventory"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880863204158:android:4fdf51c9e0bbdbf0c2126f",
+        "android_client_info": {
+          "package_name": "com.example.qrventory_updated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880863204158-ve8ca23p27t2khfnd0hof74obi52ngus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr9DUMeZ7D2ii9Be40ITSLLYHjqNBZsfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880863204158-ve8ca23p27t2khfnd0hof74obi52ngus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880863204158-shks9ntdcv4pn2q3ehr2urbpu0bgsm8d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qrventory"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
